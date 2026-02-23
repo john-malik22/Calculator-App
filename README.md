@@ -7,16 +7,16 @@ A sleek, fully functional, and responsive calculator web application built with 
 3. Core Functionality: Performs all basic arithmetic operations including addition, subtraction, multiplication, and division.
 
 🛠️ Technologies Used
-HTML
-CSS
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 🧠 What I Learned
-JavaScript
-Using of keymap
+1. JavaScript
+2. Using of keymap
 
 DOM manipulation
-CSS transforms and rotations
+--CSS transforms and rotations
 <br>
 🌐 Live Demo
 https://john-malik22.github.io/Calculator-App/
