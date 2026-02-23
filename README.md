@@ -17,16 +17,16 @@ A sleek, fully functional, and responsive calculator web application built with 
 
 DOM manipulation  
 --CSS transforms and rotations
-<br>
+
 🌐 Live Demo  
 https://john-malik22.github.io/Calculator-App/
-<br>
+
 📂 Project Structure  
 calculator-app/ │── index.html │── style.css │── script.js └── README.md
-<br>
+
 👤 Author  
 john-malik22
 BCA Student | Aspiring Web Developer
 
-⭐ Feedback
+⭐ Feedback   
 If you like this project, feel free to ⭐ the repository and share your feedback!
